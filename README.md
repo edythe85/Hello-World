@@ -1,2 +1,2 @@
 # Hello-World
-Learning something new
+Changing the wording
